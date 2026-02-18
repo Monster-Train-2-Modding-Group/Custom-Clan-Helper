@@ -29,3 +29,5 @@ This mod does not depend on any other mod to function, however to get any benefi
 	* Due to how it was coded, it is very hard to modify a page in the logbook.
   * Why is the top row of items in the checklist page smooshed
 	* This is due to how it was configured the bottom row are "crew clans", that is the clans you unlock after 6 pyre hearts, the ui is configured to split the clans across the two rows.
+  * Why are the cards on the checklist page smooshed together
+	* That is because certain clans have more than the 42 cards that can be mastered. The default setup for the UI doesn't really handle that too well.
