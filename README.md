@@ -7,8 +7,16 @@
 
 Logbook changes to support custom clans
 
+![page](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/Custom-Clan-Helper/main/screenshots/page.png)
+<sub>Logbook with every custom clan (as of repo's creation) + 1 more.</sub>
+
 ## Features
   * Fixes the logbook to add a 3rd page for custom clans. Only fixes the checklist page.
+
+## Installation
+
+It is **highly** recommended to use a mod manager (Thunderstore Mod Manager, Gale Mod Manager, or r2modman) to install this mod.
+This mod does not depend on any other mod to function, however to get any benefit from installing you would need to install at least 1 custom clan mod.
 
 ## TODO
   * Champion Upgrade Page in logbook is wonky.
@@ -18,4 +26,6 @@ Logbook changes to support custom clans
 
 ## Known issues
   * Why the 3rd page?
-	* Due to how it was coded, it is very hard to modify a page in the logbook, and is not easy to mod in the clans to appear in the 2nd page of DLC clans.
+	* Due to how it was coded, it is very hard to modify a page in the logbook.
+  * Why is the top row of items in the checklist page smooshed
+	* This is due to how it was configured the bottom row are "crew clans", that is the clans you unlock after 6 pyre hearts, the ui is configured to split the clans across the two rows.
