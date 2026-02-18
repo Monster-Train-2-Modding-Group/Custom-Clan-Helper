@@ -11,7 +11,7 @@ Logbook changes to support custom clans
 <sub>Logbook with every custom clan (as of repo's creation) + 1 more.</sub>
 
 ## Features
-  * Fixes the logbook to add a 3rd page for custom clans. Only fixes the checklist page.
+  * Fixes the logbook to add a 3rd page for custom clans. Only fixes the checklist page somewhat.
 
 ## Installation
 
