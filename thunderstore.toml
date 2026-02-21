@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Conductor"
 name = "CustomClanHelper"
-versionNumber = "1.1.0"
+versionNumber = "1.2.0"
 description = "Game UI changes to support custom clans"
 websiteUrl = "https://github.com/Monster-Train-2-Modding-Group/Custom-Clan-Helper"
 containsNsfwContent = false

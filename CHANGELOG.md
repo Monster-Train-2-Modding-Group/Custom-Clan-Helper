@@ -1,3 +1,6 @@
+## v1.2.0
+- The plugin dll file wasn't included in the mod. Mod should be functional now.
+
 ## v1.1.0
 - Now hides the custom clans from the main logbook page.
 
